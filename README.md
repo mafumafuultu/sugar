@@ -7,7 +7,7 @@
 main.js
 
 ```js
-import {head, body, node, create, select, attr, style} from './fn.js';
+import {head, body, node, create, select, attr, style} from './.js';
 ```
 
 ```html
